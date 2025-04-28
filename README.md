@@ -31,7 +31,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/NetworkTrailblazzer.git
 cd NetworkTrailblazzer
-
+```
 ---
 
 ## 🚀 Usage
@@ -40,7 +40,7 @@ Simply run the script:
 
 ```bash
 bash networktrailblazzer.sh
-
+```
 ---
 
 ## 🤝 Contributing
