@@ -31,7 +31,7 @@ No heavy installations, no complicated setup.
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/NetworkTrailblazzer.git
+git clone https://github.com/ansh-gadhia/NetworkTrailblazzer.git
 cd NetworkTrailblazzer
 ```
 ---
