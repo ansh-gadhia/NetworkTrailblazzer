@@ -9,6 +9,8 @@
 **NetworkTrailblazzer** is a lightweight and powerful tool written entirely in **Bash**.  
 It’s designed to make your network tasks easier — right from your command line.
 
+You just need to ensure that you are connected in a interconnected network.
+
 No heavy installations, no complicated setup.  
 **Just run the shell script, and you're good to go!**
 
